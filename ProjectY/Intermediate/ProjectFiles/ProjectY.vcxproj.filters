@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectY.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectY.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectYEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectY">
+      <UniqueIdentifier>{230572C6-E68D-37DE-8911-AF083C03D99A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectY\MyCharacterMovementComponent.cpp">
+      <Filter>Source\ProjectY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectY\MyCharacterMovementComponent.h">
+      <Filter>Source\ProjectY</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectY\ProjectY.Build.cs">
+      <Filter>Source\ProjectY</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectY\ProjectY.cpp">
+      <Filter>Source\ProjectY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectY\ProjectY.h">
+      <Filter>Source\ProjectY</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

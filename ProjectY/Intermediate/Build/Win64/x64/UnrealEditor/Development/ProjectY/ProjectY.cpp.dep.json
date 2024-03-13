@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\up\\projecty\\source\\projecty\\projecty.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\up\\projecty\\intermediate\\build\\win64\\x64\\projectyeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\up\\projecty\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecty\\definitions.projecty.h",
+            "d:\\up\\projecty\\source\\projecty\\projecty.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
