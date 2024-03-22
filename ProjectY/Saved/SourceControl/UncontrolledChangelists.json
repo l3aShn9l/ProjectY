@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UP/ProjectY/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/UP/ProjectY/Content/ProjectY/BP_Player.uasset"
+				"D:/UP/ProjectY/Content/ProjectY/BP_Player.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_FirstPerson_Weapon_Component.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_Player.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/ring.uasset"
 			]
 		}
 	]

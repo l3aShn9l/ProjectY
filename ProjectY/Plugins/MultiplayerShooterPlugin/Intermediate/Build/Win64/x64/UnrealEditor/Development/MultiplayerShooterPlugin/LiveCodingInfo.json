@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiplayerShooterPlugin.cpp.obj": [
+			"MultiplayerGunMasterClass.gen.cpp.obj",
+			"MultiplayerPlayerCharacter.gen.cpp.obj",
+			"MultiplayerProjectileMasterClass.gen.cpp.obj",
+			"MultiplayerShooterPlugin.init.gen.cpp.obj",
+			"MultiplayerGunMasterClass.cpp.obj",
+			"MultiplayerPlayerCharacter.cpp.obj",
+			"MultiplayerProjectileMasterClass.cpp.obj",
+			"MultiplayerShooterPlugin.cpp.obj"
+		]
+	}
+}

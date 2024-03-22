@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerShooterPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\MyProject7\Intermediate\Build\Win64\x64\MyProject7Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Unreal Projects\MyProject7\Plugins\MultiplayerShooterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerShooterPlugin\Module.MultiplayerShooterPlugin.cpp.obj"
+"C:\Unreal Projects\MyProject7\Plugins\MultiplayerShooterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerShooterPlugin\Default.rc2.res"
+/OUT:"C:\Unreal Projects\MyProject7\Plugins\MultiplayerShooterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerShooterPlugin\UnrealEditor-MultiplayerShooterPlugin.lib"
