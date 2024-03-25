@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-ProjectY.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.gen.cpp.obj"
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.init.gen.cpp.obj"
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.obj"
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.cpp.obj"
-"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\Default.rc2.res"
-/OUT:"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\UnrealEditor-ProjectY.lib"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.gen.cpp.obj"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.init.gen.cpp.obj"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.obj"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.cpp.obj"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\Default.rc2.res"
+/OUT:"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\UnrealEditor-ProjectY.lib"

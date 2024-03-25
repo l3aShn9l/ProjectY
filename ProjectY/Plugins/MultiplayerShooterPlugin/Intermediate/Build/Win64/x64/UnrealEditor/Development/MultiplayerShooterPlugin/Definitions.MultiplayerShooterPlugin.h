@@ -1,4 +1,4 @@
-#include "C:/Unreal Projects/MyProject7/Intermediate/Build/Win64/x64/MyProject7Editor/Development/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
+#include "C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Intermediate/Build/Win64/x64/ProjectYEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,8 +13,8 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 1
-#define UE_PROJECT_NAME MyProject7
-#define UE_TARGET_NAME MyProject7Editor
+#define UE_PROJECT_NAME ProjectY
+#define UE_TARGET_NAME ProjectYEditor
 #define UE_MODULE_NAME "MultiplayerShooterPlugin"
 #define UE_PLUGIN_NAME "MultiplayerShooterPlugin"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

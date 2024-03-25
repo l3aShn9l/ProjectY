@@ -1,11 +1,11 @@
-"D:\UP\ProjectY\Source\ProjectY\MyCharacterMovementComponent.cpp"
-/FI"D:\UP\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\Definitions.ProjectY.h"
-/Yu"D:\UP\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"D:\UP\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.obj"
-/sourceDependencies "D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.dep.json"
-@"D:\UP\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.Shared.rsp"
+"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Source\ProjectY\MyCharacterMovementComponent.cpp"
+/FI"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\Definitions.ProjectY.h"
+/Yu"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\ProjectYEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.obj"
+/sourceDependencies "C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\MyCharacterMovementComponent.cpp.dep.json"
+@"C:\Users\admin\Desktop\Solution_new\ProjectY\ProjectY\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectY\ProjectY.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

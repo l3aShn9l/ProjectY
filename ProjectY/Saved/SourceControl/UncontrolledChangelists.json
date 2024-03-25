@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/ProjectY/BP_FirstPerson_Weapon_Component.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/30/3SRF59ASXDXF9T04MQ91DG.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L1/YPCET9PWH9MDYM6JFMUY6H.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0Y/LMWOK5J3NX0CT4BT4AD2SL.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JJ/FW485JA4CLVCXE738RN2N7.uasset",
+				"C:/Users/admin/Desktop/Solution_new/ProjectY/ProjectY/Content/ProjectY/BP_PlayerBounds.uasset",
 				"D:/UP/ProjectY/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/UP/ProjectY/Content/ProjectY/BP_Player.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_FirstPerson_Weapon_Component.uasset",

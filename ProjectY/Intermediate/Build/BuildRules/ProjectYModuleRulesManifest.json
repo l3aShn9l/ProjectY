@@ -1,8 +1,11 @@
 {
 	"SourceFiles": [
-		"D:\\UP\\ProjectY\\Source\\ProjectY\\ProjectY.Build.cs",
-		"D:\\UP\\ProjectY\\Source\\ProjectY.Target.cs",
-		"D:\\UP\\ProjectY\\Source\\ProjectYEditor.Target.cs"
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Source\\ProjectY\\ProjectY.Build.cs",
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Plugins\\MultiplayerShooterPlugin\\Source\\MultiplayerShooterPlugin\\MultiplayerShooterPlugin.Build.cs",
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Source\\ProjectY.Target.cs",
+		"C:\\Users\\admin\\Desktop\\Solution_new\\ProjectY\\ProjectY\\Source\\ProjectYEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
