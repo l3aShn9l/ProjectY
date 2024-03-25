@@ -11,13 +11,31 @@
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_Player.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/ring.uasset",
-				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_PlayerBounds1.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_PlayerBounds.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_SphereChain.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0Y/LMWOK5J3NX0CT4BT4AD2SL.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
-				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/E_ChainGunMode.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BPI_GravityActor.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/E_Colour.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_GravityCube.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_ThirdPerson_Weapon_Component.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/111.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/B.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/30/3SRF59ASXDXF9T04MQ91DG.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L1/YPCET9PWH9MDYM6JFMUY6H.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Q2/6N7F4U1FRU5K6X4P8JZHQY.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/T0/HUS9Z2F94XF80GF6K06TGJ.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Plugins/MultiplayerShooterPlugin/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_BlueProjectile.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_RedProjectile.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BlueMaterial.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/RedMaterial.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/FirstPerson/Blueprints/B.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_GravityCube.uasset",
+				"D:/Unreal Projects/ProjectY/ProjectY/Content/ProjectY/BP_PlayerBounds1.uasset"
 			]
 		}
 	]
